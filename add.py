@@ -1,4 +1,5 @@
 a=200
 b=500
-c=a+b
+d=78
+c=a+b+d
 print(c)
