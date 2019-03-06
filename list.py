@@ -1,0 +1,5 @@
+fruits=["APPLE","ORANGE","GRAPES","BANANA","MANGOES","POMAGRANATE","JACKFRUIT","STREWBERRY","BLUEBERRY","BLACKBERRY","PINEAPPLE"]
+print(fruits)
+
+for i in fruits:
+    print(i)
